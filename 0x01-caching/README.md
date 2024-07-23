@@ -1,0 +1,1 @@
+Cache is one of the most important parts of the backend. We always use cache to improve latency. There are several things worth thinking about more before we implement cache architecture. In this article, I want to briefly discuss some of that.
