@@ -1,0 +1,1 @@
+pagination is done by specifying to the user how many results to display per page, and which page of results he is currently viewing. However, backend storage such as MySQL or Solr typically handle pagination by specifying how many results to display per page, and how many results to skip in the output. 
